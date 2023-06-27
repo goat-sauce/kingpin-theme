@@ -1,5 +1,7 @@
 # Kingpin
 
+![preview](https://i.imgur.com/36bBdIh.png)
+
 The theme is dark and high-contrast.
 
 Feel free to commit any fixes, here are the colors...
