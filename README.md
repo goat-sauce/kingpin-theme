@@ -1,5 +1,9 @@
 # Kingpin
 
+[Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=goatsauce.kingpin-theme)
+
+You can also search in the VSCode extensions tab for Kingpin Theme.
+
 ![preview](https://i.imgur.com/36bBdIh.png)
 
 The theme is dark and high-contrast.

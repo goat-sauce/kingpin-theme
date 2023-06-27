@@ -1,13 +1,13 @@
 {
-  "name": "kingpin",
-  "displayName": "Kingpin",
+  "name": "kingpin-theme",
+  "displayName": "Kingpin Theme",
   "description": "Kingpin theme.",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2",
   "publisher": "goatsauce",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/goatsauce/kingpin-theme.git"
+    "url": "https://github.com/goat-sauce/kingpin-theme.git"
   },
   "engines": {
     "vscode": "^1.62.0"
