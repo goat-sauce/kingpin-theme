@@ -1,10 +1,8 @@
 # Kingpin
 
-The Kingpin theme is in `alpha`.
-
 The theme is dark and high-contrast.
 
-Feel free to commit any small fixes, here are the colors...
+Feel free to commit any fixes, here are the colors...
 
 - #0F0F0F
 - #DFDFDF
