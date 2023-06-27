@@ -1,0 +1,27 @@
+{
+  "name": "kingpin",
+  "displayName": "Kingpin",
+  "description": "Kingpin theme.",
+  "version": "0.0.1-alpha",
+  "publisher": "goatsauce",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goatsauce/kingpin-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kingpin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kingpin-color-theme.json"
+      }
+    ]
+  }
+}
